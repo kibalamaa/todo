@@ -1,5 +1,5 @@
 # TODO list App
-A todo list application created with Html, css and javascript
+A todo list application created with Html and javascript
 ![Task Page](image.png) 
 
 ## Functionality
